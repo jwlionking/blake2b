@@ -1,29 +1,29 @@
 {
   "_args": [
     [
-      "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
+      "git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
       "/home/pool/foundation-server"
     ]
   ],
-  "_from": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
-  "_id": "blake2b@git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
+  "_from": "git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
+  "_id": "blake2b@git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/blake2b",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
-    "rawSpec": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
-    "saveSpec": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
-    "fetchSpec": "https://github.com/BitGo/blake2b.git",
-    "gitCommittish": "6268e6dd678661e0acc4359e9171b97eb1ebf8ac"
+    "raw": "git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
+    "rawSpec": "git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
+    "saveSpec": "git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
+    "fetchSpec": "https://github.com/jwlionking/blake2b.git",
+    "gitCommittish": "7931e2f89fce8d13c5eb4b7d28f9cafb46d75065"
   },
   "_requiredBy": [
     "/foundation-utxo-lib"
   ],
-  "_resolved": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
-  "_spec": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac",
+  "_resolved": "git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
+  "_spec": "git+https://github.com/jwlionking/blake2b.git#7931e2f89fce8d13c5eb4b7d28f9cafb46d75065",
   "_where": "/home/pool/foundation-server",
   "author": {
     "name": "Emil Bay",
@@ -33,7 +33,7 @@
     "url": "https://github.com/emilbayes/blake2b/issues"
   },
   "dependencies": {
-    "blake2b-wasm": "git+https://github.com/BitGo/blake2b-wasm.git#193cdb71656c1a6c7f89b05d0327bb9b758d071b",
+    "blake2b-wasm": "git+https://github.com/jwlionking/blake2b-wasm.git#193cdb71656c1a6c7f89b05d0327bb9b758d071b",
     "nanoassert": "^1.0.0"
   },
   "description": "Blake2b (64-bit version) in pure Javascript",
